@@ -380,6 +380,7 @@
     value: USD 800
   domains:
   - Biology
+  - Neuroscience
   journal:
     url: http://f1000research.com/
     value: F1000 Research
@@ -638,6 +639,7 @@
     value: EUR 1790
   domains:
   - Biology
+  - Neuroscience
   journal:
     url: http://www.nature.com/sdata/
     value: Scientific Data

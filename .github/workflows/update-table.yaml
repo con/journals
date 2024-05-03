@@ -5,6 +5,10 @@ on:
     paths:
       - 'journals.yaml'
       - 'code/*_table'
+  pull:
+    paths:
+      - 'journals.yaml'
+      - 'code/*_table'
 
 jobs:
   update-readme:
