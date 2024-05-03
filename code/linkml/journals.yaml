@@ -90,9 +90,6 @@ enums:
           - map to ontology in "meaning:"
   DomainTypes:
     permissible_values:
-      Any:
-        todos:
-          - map to ontology in "meaning:"
       Biology:
         todos:
           - map to ontology in "meaning:"
