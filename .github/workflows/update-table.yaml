@@ -1,0 +1,43 @@
+name: Update README Table
+
+on:
+  push:
+    paths:
+      - 'journals.yaml'
+      - 'code/*_table'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run table embedding script
+        run: python code/embed_table
+
+      - name: Check for changes in README.md
+        id: git-check
+        run: |
+          git diff --exit-code README.md
+          echo "README_CHANGED=$?" >> $GITHUB_ENV
+
+      - name: Commit changes
+        if: env.README_CHANGED == '1'
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add README.md
+          git commit -m "Updated rendered table"
+
+      - name: Push changes
+        if: env.README_CHANGED == '1'
+        run: git push
