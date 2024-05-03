@@ -1,0 +1,30 @@
+import requests
+from bs4 import BeautifulSoup
+import yaml
+
+# URL of the GBIF data papers page
+url = "https://www.gbif.org/data-papers"
+
+# Send HTTP request and parse the HTML
+response = requests.get(url)
+soup = BeautifulSoup(response.content, 'html.parser')
+
+# Find the table by its class name
+table = soup.find('table', class_='table')
+
+# Extract headers
+headers = [th.get_text(strip=True) for th in table.find_all('th')]
+
+# Extract table rows
+data = []
+for tr in table.find_all('tr')[1:]:  # Skip the header row
+    cells = tr.find_all('td')
+    row = {headers[i]: cells[i].get_text(strip=True) for i in range(len(cells))}
+    row["Paper types"] = ["Data paper"]
+    data.append(row)
+
+# Write data to a YAML file
+with open('data_papers.yaml', 'w') as f:
+    yaml.dump(data, f, allow_unicode=True)
+
+print("Data scraped and saved to 'data_papers.yaml'")

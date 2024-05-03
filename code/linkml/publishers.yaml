@@ -1,0 +1,47 @@
+ids:
+  - id: https://w3id.org/linkml/examples/personinfo
+name: GBIFDataPapers
+description: Schema for GBIF Data Papers
+classes:
+  DataPaper:
+    description: "A record of a journal's data paper."
+    slots:
+      - journal
+      - publisher
+      - open_access_license
+      - apc_estimate
+      - journal_impact_factor
+      - scopus_citescore
+      - paper_types
+
+slots:
+  journal:
+    description: "Name of the journal"
+    range: string
+  publisher:
+    description: "Publisher of the journal"
+    range: string
+  open_access_license:
+    description: "Type of open access license"
+    range: string
+  apc_estimate:
+    description: "Estimated article processing charge"
+    range: string
+  journal_impact_factor:
+    description: "Journal's impact factor for the year 2022"
+    range: string
+  scopus_citescore:
+    description: "Journal's Scopus CiteScore for the year 2022"
+    range: string
+  paper_types:
+    description: "Type of papers published by the journal"
+    range: list
+    multivalued: true
+    enum:
+      - Data paper
+      - Research paper
+      - SOP/Protocol
+
+default_prefix: linkml
+prefixes:
+  linkml: https://w3id.org/linkml/
