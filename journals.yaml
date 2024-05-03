@@ -1,0 +1,296 @@
+- apc_estimate: EUR 1690
+  journal: Annals of Forest Science
+  journal_impact_factor: '3.0'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Springer Nature
+  scopus_citescore: '6.4'
+- apc_estimate: '0'
+  journal: Arxius de Miscel·lània Zoològica
+  journal_impact_factor: '-'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Nat Hist Museum of Barcelona
+  scopus_citescore: '1'
+- apc_estimate: EUR 910
+  journal: Big Earth Data
+  journal_impact_factor: '4.0'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Taylor & Francis Online
+  scopus_citescore: '8'
+- apc_estimate: from EUR 650
+  journal: Biodiversity Data Journal
+  journal_impact_factor: '1.3'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Pensoft
+  scopus_citescore: '2.1'
+- apc_estimate: '0'
+  journal: Biogeographia
+  journal_impact_factor: '-'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: eScholarship
+  scopus_citescore: '1.9'
+- apc_estimate: from EUR 560
+  journal: BioInvasions Records
+  journal_impact_factor: '1.4'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: REABIC Journals
+  scopus_citescore: '2.7'
+- apc_estimate: from EUR 450
+  journal: BioRisk
+  journal_impact_factor: '-'
+  open_access_license: 'Yes'
+  paper_types:
+  - DataPaper
+  publisher: Pensoft
+  scopus_citescore: '0.6'
+- apc_estimate: '0'
+  journal: Biota Colombiana
+  journal_impact_factor: '-'
+  open_access_license: CC BY-NC-ND
+  paper_types:
+  - DataPaper
+  publisher: Humboldt Institute, Colombia
+  scopus_citescore: '1'
+- apc_estimate: EUR 2090
+  journal: BMC Ecology and Evolution
+  journal_impact_factor: '2.2'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Biomed Central
+  scopus_citescore: '5.8'
+- apc_estimate: EUR 2090
+  journal: BMC Plant Biology
+  journal_impact_factor: '5.3'
+  open_access_license: CC BY + CC0
+  paper_types:
+  - DataPaper
+  publisher: Biomed Central
+  scopus_citescore: '8.7'
+- apc_estimate: EUR 1745
+  journal: Botanical Studies
+  journal_impact_factor: '3.4'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Springer Nature
+  scopus_citescore: '4.8'
+- apc_estimate: from EUR 250
+  journal: Check List
+  journal_impact_factor: '0.4'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Biotaxa
+  scopus_citescore: '1.1'
+- apc_estimate: RMB 3000
+  journal: China Scientific Data
+  journal_impact_factor: '-'
+  open_access_license: 'Yes'
+  paper_types:
+  - DataPaper
+  publisher: Chinese Academy of Sciences
+  scopus_citescore: '-'
+- apc_estimate: USD 500
+  journal: Data in Brief
+  journal_impact_factor: '1.2'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Elsevier
+  scopus_citescore: '2.6'
+- apc_estimate: CHF 1400
+  journal: Data
+  journal_impact_factor: '2.6'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: MDPI Open Access Journals
+  scopus_citescore: '4.6'
+- apc_estimate: CHF 1900
+  journal: Diversity
+  journal_impact_factor: '2.4'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: MDPI Open Access Journals
+  scopus_citescore: '3.1'
+- apc_estimate: '0'
+  journal: Earth System Science Data
+  journal_impact_factor: '11.4'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Copernicus GmbH
+  scopus_citescore: '14.9'
+- apc_estimate: USD 3000
+  journal: Ecological Research
+  journal_impact_factor: '2.0'
+  open_access_license: 'Yes'
+  paper_types:
+  - DataPaper
+  publisher: Wiley, for The Ecological Society of Japan
+  scopus_citescore: '4.1'
+- apc_estimate: '0'
+  journal: Ecosistemas
+  journal_impact_factor: '0.7'
+  open_access_license: CC BY-NC
+  paper_types:
+  - DataPaper
+  publisher: Asociación Española de Ecología Terrestre
+  scopus_citescore: '1.6'
+- apc_estimate: USD 800
+  journal: F1000 Research
+  journal_impact_factor: '-'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: F1000 Research Ltd
+  scopus_citescore: '3.6'
+- apc_estimate: '0'
+  journal: The Freshwater Metadata Journal
+  journal_impact_factor: '-'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Univ of Nat Res & Life Sci, Vienna
+  scopus_citescore: '-'
+- apc_estimate: EUR 1450
+  journal: Geoscience Data Journal
+  journal_impact_factor: '3.2'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Wiley (on behalf of RMetS)
+  scopus_citescore: '6.2'
+- apc_estimate: USD 350
+  journal: GigaByte
+  journal_impact_factor: '-'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: BGI and Oxford University Press
+  scopus_citescore: '-'
+- apc_estimate: EUR 1089
+  journal: GigaScience
+  journal_impact_factor: '9.2'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Oxford University Press
+  scopus_citescore: '13.7'
+- apc_estimate: EUR 600
+  journal: Journal of Limnology
+  journal_impact_factor: '1.6'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: PAGEPress
+  scopus_citescore: '2.8'
+- apc_estimate: '0'
+  journal: Knowledge and Management of Aquatic Ecosystems
+  journal_impact_factor: '1.8'
+  open_access_license: CC BY-ND
+  paper_types:
+  - DataPaper
+  publisher: EDP Sciences
+  scopus_citescore: '3.6'
+- apc_estimate: from EUR 650
+  journal: Metabarcoding and Metagenomics (MBMG)
+  journal_impact_factor: '-'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Pensoft
+  scopus_citescore: '5'
+- apc_estimate: from EUR 950
+  journal: MycoKeys
+  journal_impact_factor: '3.3'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Pensoft
+  scopus_citescore: '5.8'
+- apc_estimate: from EUR 950
+  journal: Nature Conservation
+  journal_impact_factor: '1.6'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Pensoft
+  scopus_citescore: '4.5'
+- apc_estimate: from EUR 950
+  journal: NeoBiota
+  journal_impact_factor: '5.1'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Pensoft
+  scopus_citescore: '7.7'
+- apc_estimate: from EUR 780
+  journal: PhytoKeys
+  journal_impact_factor: '1.4'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Pensoft
+  scopus_citescore: '2.2'
+- apc_estimate: USD 1805
+  journal: PLOS ONE
+  journal_impact_factor: '3.7'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Plos
+  scopus_citescore: '6'
+- apc_estimate: EUR 1790
+  journal: Scientific Data
+  journal_impact_factor: '9.8'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Nature Publishing Group
+  scopus_citescore: '11.2'
+- apc_estimate: EUR 1800
+  journal: Taxon
+  journal_impact_factor: '3.4'
+  open_access_license: 'Yes'
+  paper_types:
+  - DataPaper
+  publisher: Internat. Assoc. Plant Taxonomists (IAPT)
+  scopus_citescore: '3.8'
+- apc_estimate: from EUR 780
+  journal: ZooKeys
+  journal_impact_factor: '1.3'
+  open_access_license: CC BY
+  paper_types:
+  - DataPaper
+  publisher: Pensoft
+  scopus_citescore: '2.7'
+- apc_estimate: EUR 3050
+  journal: Global Ecology and Biogeography
+  journal_impact_factor: '6.4'
+  open_access_license: Optional
+  paper_types:
+  - DataPaper
+  publisher: Wiley
+  scopus_citescore: '10.8'
+- apc_estimate: USD 3000 (2250 for society members)
+  journal: Ecology
+  journal_impact_factor: '4.8'
+  open_access_license: Optional
+  paper_types:
+  - DataPaper
+  publisher: Ecological Society of America
+  scopus_citescore: '8.7'
