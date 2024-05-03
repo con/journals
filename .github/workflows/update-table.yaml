@@ -6,7 +6,7 @@ on:
       - 'journals.yaml'
       - 'code/*_table'
       - '.github/workflows/update-table.yaml'
-  pull:
+  pull_request:
     paths:
       - 'journals.yaml'
       - 'code/*_table'
