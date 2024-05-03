@@ -1,0 +1,17 @@
+#!/bin/bash
+
+cd "$(dirname $0)"/..
+
+# crude script to embed table
+
+awk -v newtable="$(python code/print_table)" '
+/BEGIN TABLE/ {
+    print
+    print newtable
+    in_range = 1
+    next
+}
+/END TABLE/ {
+    in_range = 0
+}
+!in_range' README.md > tmpfile && mv tmpfile README.md
