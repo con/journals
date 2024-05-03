@@ -41,3 +41,8 @@
 | Global Ecology and Biogeography | Wiley | Optional | EUR 3050 | 6.4 | 10.8 | DataPaper |
 | Ecology | Ecological Society of America | Optional | USD 3000 (2250 for society members) | 4.8 | 8.7 | DataPaper |
 <!-- END TABLE -->
+
+# To contribute
+
+- a journal or changes to an entry -- PR editing [journals.yaml](./journals.yaml) file
+- additional changes to schema -- PR editing [linkml model](./code/linkml/journals.yaml) and likely [code/print_table](code/print_table)
