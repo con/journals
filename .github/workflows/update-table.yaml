@@ -33,8 +33,7 @@ jobs:
       - name: Check for changes in README.md
         id: git-check
         run: |
-          git diff --exit-code README.md
-          echo "README_CHANGED=$?" >> $GITHUB_ENV
+          git diff --exit-code README.md || echo "README_CHANGED=$?" >> $GITHUB_ENV
 
       - name: Commit changes
         if: env.README_CHANGED == '1'
