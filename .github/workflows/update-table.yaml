@@ -5,10 +5,12 @@ on:
     paths:
       - 'journals.yaml'
       - 'code/*_table'
+      - '.github/workflows/update-table.yaml'
   pull:
     paths:
       - 'journals.yaml'
       - 'code/*_table'
+      - '.github/workflows/update-table.yaml'
 
 jobs:
   update-readme:
