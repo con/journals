@@ -8,13 +8,14 @@ with open('journals.yaml', 'r') as file:
 
 # Markdown table header
 markdown_table = [
-    "| Journal | Publisher | Open Access (license) | APC estimate | Journal Impact Factor (2022) | Scopus CiteScore (2022) | Paper types |",
-    "|---------|-----------|-----------------------|--------------|-----------------------------|-------------------------|-------------|"
+    "| Journal | Publisher | Open Access (license) | APC estimate | Journal Impact Factor (2022) | Scopus CiteScore (2022) | Paper types | Domains |",
+    "|---------|-----------|-----------------------|--------------|------------------------------|-------------------------|-------------|---------|"
 ]
 
 # Fill the table with data from YAML
 for journal in journals:
     paper_types = ", ".join(journal["paper_types"])
+    domains = ", ".join(journal["domains"])
     row_parts = []
     for key in ['journal', 'publisher', 'open_access_license', 'apc_estimate', 'journal_impact_factor', 'scopus_citescore']:
         entry = journal[key]
@@ -26,7 +27,7 @@ for journal in journals:
         else:
             part = entry
         row_parts.append(part)
-    row = "| " + " | ".join(row_parts) + " | " + paper_types + " |"
+    row = "| " + " | ".join(row_parts) + f" | {paper_types} | {domains} |" 
     markdown_table.append(row)
 
 # Print the markdown table

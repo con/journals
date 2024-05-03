@@ -26,7 +26,9 @@ names_map = {
     "APC estimate": "apc_estimate",
     "Journal Impact Factor (2022)": "journal_impact_factor",
     "Scopus CiteScore (2022)": "scopus_citescore",
-    "Paper types": "paper_types"  # This field is added manually to each record
+    # This field is added manually to each record
+    "Paper types": "paper_types",
+    "Domains": "domains",
 }
 
 for tr in table.find_all('tr')[1:]:  # Skip the header row
@@ -41,6 +43,7 @@ for tr in table.find_all('tr')[1:]:  # Skip the header row
         if url:
             row[header]["url"] = url
     row["paper_types"] = ["DataPaper"]
+    row["domains"] = ["Biology"]
     data.append(row)
 
 # Write data to a YAML file

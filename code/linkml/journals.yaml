@@ -36,6 +36,7 @@ classes:
       - journal_impact_factor
       - scopus_citescore
       - paper_types
+      - domains
 
 slots:
   value:
@@ -68,6 +69,10 @@ slots:
     description: "Type of papers published by the journal"
     range: PaperTypes
     multivalued: true
+  domains:
+    description: "Appropriate scientific domains"
+    range: DomainTypes
+    multivalued: true
 
 # TODO:  slot_uri's for enums????
 enums:
@@ -83,4 +88,14 @@ enums:
         description: Standard Operating Procedure (Protocol) description
         todos:
           - map to ontology in "meaning:"
-
+  DomainTypes:
+    permissible_values:
+      Any:
+        todos:
+          - map to ontology in "meaning:"
+      Biology:
+        todos:
+          - map to ontology in "meaning:"
+      Neuroscience:
+        todos:
+          - map to ontology in "meaning:"

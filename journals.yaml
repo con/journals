@@ -1,6 +1,8 @@
 - apc_estimate:
     url: https://www.springernature.com/gp/open-research/journals-books/journals
     value: EUR 1690
+  domains:
+  - Biology
   journal:
     url: https://www.springer.com/life+sciences/forestry/journal/13595
     value: Annals of Forest Science
@@ -18,6 +20,8 @@
 - apc_estimate:
     url: http://amz.museucienciesjournals.cat/editorial-policy/?lang=en
     value: '0'
+  domains:
+  - Biology
   journal:
     url: http://amz.museucienciesjournals.cat/?lang=en
     value: Arxius de Miscel·lània Zoològica
@@ -36,6 +40,8 @@
 - apc_estimate:
     url: https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tbed20
     value: EUR 910
+  domains:
+  - Biology
   journal:
     url: https://www.tandfonline.com/toc/tbed20/current
     value: Big Earth Data
@@ -54,6 +60,8 @@
 - apc_estimate:
     url: https://bdj.pensoft.net/about#CoreCharges
     value: from EUR 650
+  domains:
+  - Biology
   journal:
     url: http://bdj.pensoft.net/
     value: Biodiversity Data Journal
@@ -72,6 +80,8 @@
 - apc_estimate:
     url: https://escholarship.org/uc/biogeographia/submissionguidelines
     value: '0'
+  domains:
+  - Biology
   journal:
     url: https://escholarship.org/uc/biogeographia
     value: Biogeographia
@@ -90,6 +100,8 @@
 - apc_estimate:
     url: http://www.reabic.net/journals/bir/Submission.aspx
     value: from EUR 560
+  domains:
+  - Biology
   journal:
     url: http://www.reabic.net/journals/bir/Default.aspx
     value: BioInvasions Records
@@ -108,6 +120,8 @@
 - apc_estimate:
     url: https://biorisk.pensoft.net/about#ArticleProcessingCharges
     value: from EUR 450
+  domains:
+  - Biology
   journal:
     url: http://biorisk.pensoft.net/
     value: BioRisk
@@ -125,6 +139,8 @@
 - apc_estimate:
     url: https://doaj.org/toc/0124-5376
     value: '0'
+  domains:
+  - Biology
   journal:
     url: http://revistas.humboldt.org.co/index.php/biota
     value: Biota Colombiana
@@ -143,6 +159,8 @@
 - apc_estimate:
     url: https://www.springernature.com/gp/open-research/journals-books/journals
     value: EUR 2090
+  domains:
+  - Biology
   journal:
     url: https://bmcecolevol.biomedcentral.com/
     value: BMC Ecology and Evolution
@@ -161,6 +179,8 @@
 - apc_estimate:
     url: https://www.springernature.com/gp/open-research/journals-books/journals
     value: EUR 2090
+  domains:
+  - Biology
   journal:
     url: http://bmcplantbiol.biomedcentral.com/
     value: BMC Plant Biology
@@ -179,6 +199,8 @@
 - apc_estimate:
     url: http://as-botanicalstudies.springeropen.com/about
     value: EUR 1745
+  domains:
+  - Biology
   journal:
     url: http://www.as-botanicalstudies.com/
     value: Botanical Studies
@@ -197,6 +219,8 @@
 - apc_estimate:
     url: https://checklist.pensoft.net/about#ArticleProcessingCharges
     value: from EUR 250
+  domains:
+  - Biology
   journal:
     url: http://biotaxa.org/CL
     value: Check List
@@ -215,6 +239,8 @@
 - apc_estimate:
     url: http://www.csdata.org/en/p/static/1329/
     value: RMB 3000
+  domains:
+  - Biology
   journal:
     url: http://www.csdata.org
     value: China Scientific Data
@@ -232,6 +258,8 @@
 - apc_estimate:
     url: https://www.elsevier.com/journals/data-in-brief/2352-3409/open-access-journal
     value: USD 500
+  domains:
+  - Biology
   journal:
     url: http://www.journals.elsevier.com/data-in-brief/
     value: Data in Brief
@@ -250,6 +278,8 @@
 - apc_estimate:
     url: http://www.mdpi.com/journal/data/apc
     value: CHF 1400
+  domains:
+  - Biology
   journal:
     url: http://www.mdpi.com/journal/data/about
     value: Data
@@ -268,6 +298,8 @@
 - apc_estimate:
     url: https://www.mdpi.com/about/apc#journal-apcs
     value: CHF 1900
+  domains:
+  - Biology
   journal:
     url: https://www.mdpi.com/journal/diversity
     value: Diversity
@@ -286,6 +318,8 @@
 - apc_estimate:
     url: http://www.earth-system-science-data.net/for_authors/article_processing_charges.html
     value: '0'
+  domains:
+  - Biology
   journal:
     url: http://www.earth-system-science-data.net/
     value: Earth System Science Data
@@ -304,6 +338,8 @@
 - apc_estimate:
     url: https://esj-journals.onlinelibrary.wiley.com/hub/journal/14401703/homepage/forauthors#licensing
     value: USD 3000
+  domains:
+  - Biology
   journal:
     url: http://www.esj.ne.jp/er/index.html
     value: Ecological Research
@@ -322,6 +358,8 @@
 - apc_estimate:
     url: https://www.revistaecosistemas.net/index.php/ecosistemas/about#costes
     value: '0'
+  domains:
+  - Biology
   journal:
     url: https://www.revistaecosistemas.net/index.php/ecosistemas
     value: Ecosistemas
@@ -340,6 +378,8 @@
 - apc_estimate:
     url: http://f1000research.com/for-authors/article-processing-charges
     value: USD 800
+  domains:
+  - Biology
   journal:
     url: http://f1000research.com/
     value: F1000 Research
@@ -358,6 +398,8 @@
 - apc_estimate:
     url: http://www.freshwaterjournal.eu
     value: '0'
+  domains:
+  - Biology
   journal:
     url: http://www.freshwaterjournal.eu/
     value: The Freshwater Metadata Journal
@@ -375,6 +417,8 @@
 - apc_estimate:
     url: https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/article-publication-charges.html
     value: EUR 1450
+  domains:
+  - Biology
   journal:
     url: http://www.geosciencedata.com/
     value: Geoscience Data Journal
@@ -393,6 +437,8 @@
 - apc_estimate:
     url: https://gigabytejournal.com/open-access-and-apc#article-processing-charges
     value: USD 350
+  domains:
+  - Biology
   journal:
     url: https://gigabytejournal.com/
     value: GigaByte
@@ -410,6 +456,8 @@
 - apc_estimate:
     url: https://academic.oup.com/gigascience/pages/charges_licensing_and_self_archiving
     value: EUR 1089
+  domains:
+  - Biology
   journal:
     url: https://academic.oup.com/gigascience
     value: GigaScience
@@ -428,6 +476,8 @@
 - apc_estimate:
     url: https://jlimnol.it/index.php/jlimnol/fee
     value: EUR 600
+  domains:
+  - Biology
   journal:
     url: https://www.jlimnol.it
     value: Journal of Limnology
@@ -446,6 +496,8 @@
 - apc_estimate:
     url: https://www.kmae-journal.org/author-information/instructions-for-authors
     value: '0'
+  domains:
+  - Biology
   journal:
     url: https://www.kmae-journal.org/
     value: Knowledge and Management of Aquatic Ecosystems
@@ -464,6 +516,8 @@
 - apc_estimate:
     url: https://mbmg.pensoft.net/about#ArticleProcessingCharges
     value: from EUR 650
+  domains:
+  - Biology
   journal:
     url: https://mbmg.pensoft.net/
     value: Metabarcoding and Metagenomics (MBMG)
@@ -482,6 +536,8 @@
 - apc_estimate:
     url: https://mycokeys.pensoft.net/about#ArticleProcessingCharges
     value: from EUR 950
+  domains:
+  - Biology
   journal:
     url: http://mycokeys.pensoft.net/
     value: MycoKeys
@@ -500,6 +556,8 @@
 - apc_estimate:
     url: http://natureconservation.pensoft.net/about#Article-Processing-Charges
     value: from EUR 950
+  domains:
+  - Biology
   journal:
     url: http://natureconservation.pensoft.net/
     value: Nature Conservation
@@ -518,6 +576,8 @@
 - apc_estimate:
     url: https://neobiota.pensoft.net/about#ArticleProcessingCharges
     value: from EUR 950
+  domains:
+  - Biology
   journal:
     url: http://neobiota.pensoft.net/
     value: NeoBiota
@@ -536,6 +596,8 @@
 - apc_estimate:
     url: https://phytokeys.pensoft.net/about#ArticleProcessingCharges
     value: from EUR 780
+  domains:
+  - Biology
   journal:
     url: http://phytokeys.pensoft.net/
     value: PhytoKeys
@@ -554,6 +616,8 @@
 - apc_estimate:
     url: http://journals.plos.org/plosone/s/publication-fees
     value: USD 1805
+  domains:
+  - Biology
   journal:
     url: http://www.plosone.org/
     value: PLOS ONE
@@ -572,6 +636,8 @@
 - apc_estimate:
     url: https://www.nature.com/sdata/about/oa
     value: EUR 1790
+  domains:
+  - Biology
   journal:
     url: http://www.nature.com/sdata/
     value: Scientific Data
@@ -590,6 +656,8 @@
 - apc_estimate:
     url: http://www.iapt-taxon.org/files/guidelines_authors.pdf
     value: EUR 1800
+  domains:
+  - Biology
   journal:
     url: https://onlinelibrary.wiley.com/journal/19968175
     value: Taxon
@@ -608,6 +676,8 @@
 - apc_estimate:
     url: https://zookeys.pensoft.net/about#ArticleProcessingCharges
     value: from EUR 780
+  domains:
+  - Biology
   journal:
     url: http://zookeys.pensoft.net/
     value: ZooKeys
@@ -626,6 +696,8 @@
 - apc_estimate:
     url: https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/article-publication-charges.html
     value: EUR 3050
+  domains:
+  - Biology
   journal:
     url: https://onlinelibrary.wiley.com/journal/14668238
     value: Global Ecology and Biogeography
@@ -643,6 +715,8 @@
 - apc_estimate:
     url: https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/article-publication-charges.html
     value: USD 3000 (2250 for society members)
+  domains:
+  - Biology
   journal:
     url: https://esajournals.onlinelibrary.wiley.com/hub/journal/19399170/aims-and-scope/read-full-aims-and-scope
     value: Ecology
