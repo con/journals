@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import requests
 from bs4 import BeautifulSoup
 import yaml
@@ -17,14 +19,25 @@ headers = [th.get_text(strip=True) for th in table.find_all('th')]
 
 # Extract table rows
 data = []
+names_map = {
+    "Journal": "journal",
+    "Publisher": "publisher",
+    "Open Access (license)": "open_access_license",
+    "APC estimate": "apc_estimate",
+    "Journal Impact Factor (2022)": "journal_impact_factor",
+    "Scopus CiteScore (2022)": "scopus_citescore",
+    "Paper types": "paper_types"  # This field is added manually to each record
+}
+
 for tr in table.find_all('tr')[1:]:  # Skip the header row
     cells = tr.find_all('td')
-    row = {headers[i]: cells[i].get_text(strip=True) for i in range(len(cells))}
-    row["Paper types"] = ["Data paper"]
+    row = {names_map[headers[i]]: cells[i].get_text(strip=True) for i in range(len(cells))}
+    row["paper_types"] = ["DataPaper"]
     data.append(row)
 
 # Write data to a YAML file
-with open('data_papers.yaml', 'w') as f:
+ofile = 'journals.yaml'
+with open(ofile, 'w') as f:
     yaml.dump(data, f, allow_unicode=True)
 
-print("Data scraped and saved to 'data_papers.yaml'")
+print(f"Data scraped and saved to '{ofile}'")

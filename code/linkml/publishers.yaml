@@ -1,10 +1,23 @@
-ids:
-  - id: https://w3id.org/linkml/examples/personinfo
-name: GBIFDataPapers
-description: Schema for GBIF Data Papers
+---
+id: https://w3id.org/linkml/examples/personinfo
+name: CON-Journals
+description: |
+  Schema for Center for Open Neuroscience list of Open Access Journals.
+  Originally inspired by and populated from the
+  https://www.gbif.org/data-papers
+license: CC0
+
+prefixes:
+  linkml: https://w3id.org/linkml/
+default_prefix: linkml
+default_range: string
+
+imports:
+  - linkml:types
+
 classes:
-  DataPaper:
-    description: "A record of a journal's data paper."
+  Journal:
+    description: "A record of a journal"
     slots:
       - journal
       - publisher
@@ -35,13 +48,20 @@ slots:
     range: string
   paper_types:
     description: "Type of papers published by the journal"
-    range: list
+    range: PaperTypes
     multivalued: true
-    enum:
-      - Data paper
-      - Research paper
-      - SOP/Protocol
 
-default_prefix: linkml
-prefixes:
-  linkml: https://w3id.org/linkml/
+enums:
+  PaperTypes:
+    permissible_values:
+      DataPaper:
+        todos:
+          - map to ontology in "meaning:"
+      ResearchPaper:
+        todos:
+          - map to ontology in "meaning:"
+      SOP:
+        description: Standard Operating Procedure (Protocol) description
+        todos:
+          - map to ontology in "meaning:"
+
