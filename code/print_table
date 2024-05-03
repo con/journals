@@ -14,8 +14,19 @@ markdown_table = [
 
 # Fill the table with data from YAML
 for journal in journals:
-    paper_types = ", ".join(journal["paper_types"])  # Join all paper types with a comma
-    row = f"| {journal['journal']} | {journal['publisher']} | {journal['open_access_license']} | {journal['apc_estimate']} | {journal['journal_impact_factor']} | {journal['scopus_citescore']} | {paper_types} |"
+    paper_types = ", ".join(journal["paper_types"])
+    row_parts = []
+    for key in ['journal', 'publisher', 'open_access_license', 'apc_estimate', 'journal_impact_factor', 'scopus_citescore']:
+        entry = journal[key]
+        if isinstance(entry, dict):
+            if entry.get('url'):
+                part = f"[{entry['value']}]({entry['url']})"
+            else:
+                part = entry['value']
+        else:
+            part = entry
+        row_parts.append(part)
+    row = "| " + " | ".join(row_parts) + " | " + paper_types + " |"
     markdown_table.append(row)
 
 # Print the markdown table

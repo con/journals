@@ -31,7 +31,15 @@ names_map = {
 
 for tr in table.find_all('tr')[1:]:  # Skip the header row
     cells = tr.find_all('td')
-    row = {names_map[headers[i]]: cells[i].get_text(strip=True) for i in range(len(cells))}
+    row = {}
+    for i, cell in enumerate(cells):
+        text = cell.get_text(strip=True)
+        link = cell.find('a')
+        url = link['href'] if link else None
+        header = names_map[headers[i]]
+        row[header] = {"value": text}
+        if url:
+            row[header]["url"] = url
     row["paper_types"] = ["DataPaper"]
     data.append(row)
 

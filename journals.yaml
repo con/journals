@@ -1,296 +1,659 @@
-- apc_estimate: EUR 1690
-  journal: Annals of Forest Science
-  journal_impact_factor: '3.0'
-  open_access_license: CC BY
+- apc_estimate:
+    url: https://www.springernature.com/gp/open-research/journals-books/journals
+    value: EUR 1690
+  journal:
+    url: https://www.springer.com/life+sciences/forestry/journal/13595
+    value: Annals of Forest Science
+  journal_impact_factor:
+    value: '3.0'
+  open_access_license:
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Springer Nature
-  scopus_citescore: '6.4'
-- apc_estimate: '0'
-  journal: Arxius de Miscel·lània Zoològica
-  journal_impact_factor: '-'
-  open_access_license: CC BY
+  publisher:
+    value: Springer Nature
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/25557
+    value: '6.4'
+- apc_estimate:
+    url: http://amz.museucienciesjournals.cat/editorial-policy/?lang=en
+    value: '0'
+  journal:
+    url: http://amz.museucienciesjournals.cat/?lang=en
+    value: Arxius de Miscel·lània Zoològica
+  journal_impact_factor:
+    value: '-'
+  open_access_license:
+    url: https://doaj.org/toc/1698-0476
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Nat Hist Museum of Barcelona
-  scopus_citescore: '1'
-- apc_estimate: EUR 910
-  journal: Big Earth Data
-  journal_impact_factor: '4.0'
-  open_access_license: CC BY
+  publisher:
+    value: Nat Hist Museum of Barcelona
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21100199735
+    value: '1'
+- apc_estimate:
+    url: https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tbed20
+    value: EUR 910
+  journal:
+    url: https://www.tandfonline.com/toc/tbed20/current
+    value: Big Earth Data
+  journal_impact_factor:
+    value: '4.0'
+  open_access_license:
+    url: https://authorservices.taylorandfrancis.com/copyright-and-you/
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Taylor & Francis Online
-  scopus_citescore: '8'
-- apc_estimate: from EUR 650
-  journal: Biodiversity Data Journal
-  journal_impact_factor: '1.3'
-  open_access_license: CC BY
+  publisher:
+    value: Taylor & Francis Online
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21101020024
+    value: '8'
+- apc_estimate:
+    url: https://bdj.pensoft.net/about#CoreCharges
+    value: from EUR 650
+  journal:
+    url: http://bdj.pensoft.net/
+    value: Biodiversity Data Journal
+  journal_impact_factor:
+    value: '1.3'
+  open_access_license:
+    url: https://doaj.org/toc/1314-2828
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Pensoft
-  scopus_citescore: '2.1'
-- apc_estimate: '0'
-  journal: Biogeographia
-  journal_impact_factor: '-'
-  open_access_license: CC BY
+  publisher:
+    value: Pensoft
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21100808899
+    value: '2.1'
+- apc_estimate:
+    url: https://escholarship.org/uc/biogeographia/submissionguidelines
+    value: '0'
+  journal:
+    url: https://escholarship.org/uc/biogeographia
+    value: Biogeographia
+  journal_impact_factor:
+    value: '-'
+  open_access_license:
+    url: https://doaj.org/toc/1594-7629
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: eScholarship
-  scopus_citescore: '1.9'
-- apc_estimate: from EUR 560
-  journal: BioInvasions Records
-  journal_impact_factor: '1.4'
-  open_access_license: CC BY
+  publisher:
+    value: eScholarship
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21100901480
+    value: '1.9'
+- apc_estimate:
+    url: http://www.reabic.net/journals/bir/Submission.aspx
+    value: from EUR 560
+  journal:
+    url: http://www.reabic.net/journals/bir/Default.aspx
+    value: BioInvasions Records
+  journal_impact_factor:
+    value: '1.4'
+  open_access_license:
+    url: https://doaj.org/toc/2242-1300
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: REABIC Journals
-  scopus_citescore: '2.7'
-- apc_estimate: from EUR 450
-  journal: BioRisk
-  journal_impact_factor: '-'
-  open_access_license: 'Yes'
+  publisher:
+    value: REABIC Journals
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21100790933
+    value: '2.7'
+- apc_estimate:
+    url: https://biorisk.pensoft.net/about#ArticleProcessingCharges
+    value: from EUR 450
+  journal:
+    url: http://biorisk.pensoft.net/
+    value: BioRisk
+  journal_impact_factor:
+    value: '-'
+  open_access_license:
+    value: 'Yes'
   paper_types:
   - DataPaper
-  publisher: Pensoft
-  scopus_citescore: '0.6'
-- apc_estimate: '0'
-  journal: Biota Colombiana
-  journal_impact_factor: '-'
-  open_access_license: CC BY-NC-ND
+  publisher:
+    value: Pensoft
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21100200206
+    value: '0.6'
+- apc_estimate:
+    url: https://doaj.org/toc/0124-5376
+    value: '0'
+  journal:
+    url: http://revistas.humboldt.org.co/index.php/biota
+    value: Biota Colombiana
+  journal_impact_factor:
+    value: '-'
+  open_access_license:
+    url: https://doaj.org/toc/0124-5376
+    value: CC BY-NC-ND
   paper_types:
   - DataPaper
-  publisher: Humboldt Institute, Colombia
-  scopus_citescore: '1'
-- apc_estimate: EUR 2090
-  journal: BMC Ecology and Evolution
-  journal_impact_factor: '2.2'
-  open_access_license: CC BY
+  publisher:
+    value: Humboldt Institute, Colombia
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21101021454
+    value: '1'
+- apc_estimate:
+    url: https://www.springernature.com/gp/open-research/journals-books/journals
+    value: EUR 2090
+  journal:
+    url: https://bmcecolevol.biomedcentral.com/
+    value: BMC Ecology and Evolution
+  journal_impact_factor:
+    value: '2.2'
+  open_access_license:
+    url: https://doaj.org/toc/1472-6785
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Biomed Central
-  scopus_citescore: '5.8'
-- apc_estimate: EUR 2090
-  journal: BMC Plant Biology
-  journal_impact_factor: '5.3'
-  open_access_license: CC BY + CC0
+  publisher:
+    value: Biomed Central
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/13115
+    value: '5.8'
+- apc_estimate:
+    url: https://www.springernature.com/gp/open-research/journals-books/journals
+    value: EUR 2090
+  journal:
+    url: http://bmcplantbiol.biomedcentral.com/
+    value: BMC Plant Biology
+  journal_impact_factor:
+    value: '5.3'
+  open_access_license:
+    url: https://doaj.org/toc/1471-2229
+    value: CC BY + CC0
   paper_types:
   - DataPaper
-  publisher: Biomed Central
-  scopus_citescore: '8.7'
-- apc_estimate: EUR 1745
-  journal: Botanical Studies
-  journal_impact_factor: '3.4'
-  open_access_license: CC BY
+  publisher:
+    value: Biomed Central
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/16794
+    value: '8.7'
+- apc_estimate:
+    url: http://as-botanicalstudies.springeropen.com/about
+    value: EUR 1745
+  journal:
+    url: http://www.as-botanicalstudies.com/
+    value: Botanical Studies
+  journal_impact_factor:
+    value: '3.4'
+  open_access_license:
+    url: https://doaj.org/toc/1817-406X
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Springer Nature
-  scopus_citescore: '4.8'
-- apc_estimate: from EUR 250
-  journal: Check List
-  journal_impact_factor: '0.4'
-  open_access_license: CC BY
+  publisher:
+    value: Springer Nature
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/4700151601
+    value: '4.8'
+- apc_estimate:
+    url: https://checklist.pensoft.net/about#ArticleProcessingCharges
+    value: from EUR 250
+  journal:
+    url: http://biotaxa.org/CL
+    value: Check List
+  journal_impact_factor:
+    value: '0.4'
+  open_access_license:
+    url: https://doaj.org/toc/1809-127X
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Biotaxa
-  scopus_citescore: '1.1'
-- apc_estimate: RMB 3000
-  journal: China Scientific Data
-  journal_impact_factor: '-'
-  open_access_license: 'Yes'
+  publisher:
+    value: Biotaxa
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/19700188151
+    value: '1.1'
+- apc_estimate:
+    url: http://www.csdata.org/en/p/static/1329/
+    value: RMB 3000
+  journal:
+    url: http://www.csdata.org
+    value: China Scientific Data
+  journal_impact_factor:
+    value: '-'
+  open_access_license:
+    url: http://www.csdata.org/en/
+    value: 'Yes'
   paper_types:
   - DataPaper
-  publisher: Chinese Academy of Sciences
-  scopus_citescore: '-'
-- apc_estimate: USD 500
-  journal: Data in Brief
-  journal_impact_factor: '1.2'
-  open_access_license: CC BY
+  publisher:
+    value: Chinese Academy of Sciences
+  scopus_citescore:
+    value: '-'
+- apc_estimate:
+    url: https://www.elsevier.com/journals/data-in-brief/2352-3409/open-access-journal
+    value: USD 500
+  journal:
+    url: http://www.journals.elsevier.com/data-in-brief/
+    value: Data in Brief
+  journal_impact_factor:
+    value: '1.2'
+  open_access_license:
+    url: https://doaj.org/toc/2352-3409
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Elsevier
-  scopus_citescore: '2.6'
-- apc_estimate: CHF 1400
-  journal: Data
-  journal_impact_factor: '2.6'
-  open_access_license: CC BY
+  publisher:
+    value: Elsevier
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21100372856
+    value: '2.6'
+- apc_estimate:
+    url: http://www.mdpi.com/journal/data/apc
+    value: CHF 1400
+  journal:
+    url: http://www.mdpi.com/journal/data/about
+    value: Data
+  journal_impact_factor:
+    value: '2.6'
+  open_access_license:
+    url: https://doaj.org/toc/2306-5729
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: MDPI Open Access Journals
-  scopus_citescore: '4.6'
-- apc_estimate: CHF 1900
-  journal: Diversity
-  journal_impact_factor: '2.4'
-  open_access_license: CC BY
+  publisher:
+    value: MDPI Open Access Journals
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21100924372
+    value: '4.6'
+- apc_estimate:
+    url: https://www.mdpi.com/about/apc#journal-apcs
+    value: CHF 1900
+  journal:
+    url: https://www.mdpi.com/journal/diversity
+    value: Diversity
+  journal_impact_factor:
+    value: '2.4'
+  open_access_license:
+    url: https://doaj.org/toc/1424-2818
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: MDPI Open Access Journals
-  scopus_citescore: '3.1'
-- apc_estimate: '0'
-  journal: Earth System Science Data
-  journal_impact_factor: '11.4'
-  open_access_license: CC BY
+  publisher:
+    value: MDPI Open Access Journals
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/6000187990
+    value: '3.1'
+- apc_estimate:
+    url: http://www.earth-system-science-data.net/for_authors/article_processing_charges.html
+    value: '0'
+  journal:
+    url: http://www.earth-system-science-data.net/
+    value: Earth System Science Data
+  journal_impact_factor:
+    value: '11.4'
+  open_access_license:
+    url: https://doaj.org/toc/1866-3508
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Copernicus GmbH
-  scopus_citescore: '14.9'
-- apc_estimate: USD 3000
-  journal: Ecological Research
-  journal_impact_factor: '2.0'
-  open_access_license: 'Yes'
+  publisher:
+    value: Copernicus GmbH
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21100284918
+    value: '14.9'
+- apc_estimate:
+    url: https://esj-journals.onlinelibrary.wiley.com/hub/journal/14401703/homepage/forauthors#licensing
+    value: USD 3000
+  journal:
+    url: http://www.esj.ne.jp/er/index.html
+    value: Ecological Research
+  journal_impact_factor:
+    value: '2.0'
+  open_access_license:
+    url: https://esj-journals.onlinelibrary.wiley.com/hub/journal/14401703/homepage/forauthors
+    value: 'Yes'
   paper_types:
   - DataPaper
-  publisher: Wiley, for The Ecological Society of Japan
-  scopus_citescore: '4.1'
-- apc_estimate: '0'
-  journal: Ecosistemas
-  journal_impact_factor: '0.7'
-  open_access_license: CC BY-NC
+  publisher:
+    value: Wiley, for The Ecological Society of Japan
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/14580
+    value: '4.1'
+- apc_estimate:
+    url: https://www.revistaecosistemas.net/index.php/ecosistemas/about#costes
+    value: '0'
+  journal:
+    url: https://www.revistaecosistemas.net/index.php/ecosistemas
+    value: Ecosistemas
+  journal_impact_factor:
+    value: '0.7'
+  open_access_license:
+    url: https://www.revistaecosistemas.net/index.php/ecosistemas/about#acceso
+    value: CC BY-NC
   paper_types:
   - DataPaper
-  publisher: Asociación Española de Ecología Terrestre
-  scopus_citescore: '1.6'
-- apc_estimate: USD 800
-  journal: F1000 Research
-  journal_impact_factor: '-'
-  open_access_license: CC BY
+  publisher:
+    value: Asociación Española de Ecología Terrestre
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21100781964
+    value: '1.6'
+- apc_estimate:
+    url: http://f1000research.com/for-authors/article-processing-charges
+    value: USD 800
+  journal:
+    url: http://f1000research.com/
+    value: F1000 Research
+  journal_impact_factor:
+    value: '-'
+  open_access_license:
+    url: https://doaj.org/toc/2046-1402
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: F1000 Research Ltd
-  scopus_citescore: '3.6'
-- apc_estimate: '0'
-  journal: The Freshwater Metadata Journal
-  journal_impact_factor: '-'
-  open_access_license: CC BY
+  publisher:
+    value: F1000 Research Ltd
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21100258853
+    value: '3.6'
+- apc_estimate:
+    url: http://www.freshwaterjournal.eu
+    value: '0'
+  journal:
+    url: http://www.freshwaterjournal.eu/
+    value: The Freshwater Metadata Journal
+  journal_impact_factor:
+    value: '-'
+  open_access_license:
+    url: https://doaj.org/toc/2312-6604
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Univ of Nat Res & Life Sci, Vienna
-  scopus_citescore: '-'
-- apc_estimate: EUR 1450
-  journal: Geoscience Data Journal
-  journal_impact_factor: '3.2'
-  open_access_license: CC BY
+  publisher:
+    value: Univ of Nat Res & Life Sci, Vienna
+  scopus_citescore:
+    value: '-'
+- apc_estimate:
+    url: https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/article-publication-charges.html
+    value: EUR 1450
+  journal:
+    url: http://www.geosciencedata.com/
+    value: Geoscience Data Journal
+  journal_impact_factor:
+    value: '3.2'
+  open_access_license:
+    url: https://doaj.org/toc/2049-6060
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Wiley (on behalf of RMetS)
-  scopus_citescore: '6.2'
-- apc_estimate: USD 350
-  journal: GigaByte
-  journal_impact_factor: '-'
-  open_access_license: CC BY
+  publisher:
+    value: Wiley (on behalf of RMetS)
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21100812867
+    value: '6.2'
+- apc_estimate:
+    url: https://gigabytejournal.com/open-access-and-apc#article-processing-charges
+    value: USD 350
+  journal:
+    url: https://gigabytejournal.com/
+    value: GigaByte
+  journal_impact_factor:
+    value: '-'
+  open_access_license:
+    url: https://gigabytejournal.com/open-access-and-apc#open-access
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: BGI and Oxford University Press
-  scopus_citescore: '-'
-- apc_estimate: EUR 1089
-  journal: GigaScience
-  journal_impact_factor: '9.2'
-  open_access_license: CC BY
+  publisher:
+    value: BGI and Oxford University Press
+  scopus_citescore:
+    value: '-'
+- apc_estimate:
+    url: https://academic.oup.com/gigascience/pages/charges_licensing_and_self_archiving
+    value: EUR 1089
+  journal:
+    url: https://academic.oup.com/gigascience
+    value: GigaScience
+  journal_impact_factor:
+    value: '9.2'
+  open_access_license:
+    url: https://doaj.org/toc/2047-217X
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Oxford University Press
-  scopus_citescore: '13.7'
-- apc_estimate: EUR 600
-  journal: Journal of Limnology
-  journal_impact_factor: '1.6'
-  open_access_license: CC BY
+  publisher:
+    value: Oxford University Press
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21100420802
+    value: '13.7'
+- apc_estimate:
+    url: https://jlimnol.it/index.php/jlimnol/fee
+    value: EUR 600
+  journal:
+    url: https://www.jlimnol.it
+    value: Journal of Limnology
+  journal_impact_factor:
+    value: '1.6'
+  open_access_license:
+    url: https://jlimnol.it/index.php/jlimnol/copy
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: PAGEPress
-  scopus_citescore: '2.8'
-- apc_estimate: '0'
-  journal: Knowledge and Management of Aquatic Ecosystems
-  journal_impact_factor: '1.8'
-  open_access_license: CC BY-ND
+  publisher:
+    value: PAGEPress
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/29608
+    value: '2.8'
+- apc_estimate:
+    url: https://www.kmae-journal.org/author-information/instructions-for-authors
+    value: '0'
+  journal:
+    url: https://www.kmae-journal.org/
+    value: Knowledge and Management of Aquatic Ecosystems
+  journal_impact_factor:
+    value: '1.8'
+  open_access_license:
+    url: https://doaj.org/toc/1961-9502
+    value: CC BY-ND
   paper_types:
   - DataPaper
-  publisher: EDP Sciences
-  scopus_citescore: '3.6'
-- apc_estimate: from EUR 650
-  journal: Metabarcoding and Metagenomics (MBMG)
-  journal_impact_factor: '-'
-  open_access_license: CC BY
+  publisher:
+    value: EDP Sciences
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/15900154751
+    value: '3.6'
+- apc_estimate:
+    url: https://mbmg.pensoft.net/about#ArticleProcessingCharges
+    value: from EUR 650
+  journal:
+    url: https://mbmg.pensoft.net/
+    value: Metabarcoding and Metagenomics (MBMG)
+  journal_impact_factor:
+    value: '-'
+  open_access_license:
+    url: https://doaj.org/toc/2534-9708
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Pensoft
-  scopus_citescore: '5'
-- apc_estimate: from EUR 950
-  journal: MycoKeys
-  journal_impact_factor: '3.3'
-  open_access_license: CC BY
+  publisher:
+    value: Pensoft
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21101022488
+    value: '5'
+- apc_estimate:
+    url: https://mycokeys.pensoft.net/about#ArticleProcessingCharges
+    value: from EUR 950
+  journal:
+    url: http://mycokeys.pensoft.net/
+    value: MycoKeys
+  journal_impact_factor:
+    value: '3.3'
+  open_access_license:
+    url: https://doaj.org/toc/1314-4057
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Pensoft
-  scopus_citescore: '5.8'
-- apc_estimate: from EUR 950
-  journal: Nature Conservation
-  journal_impact_factor: '1.6'
-  open_access_license: CC BY
+  publisher:
+    value: Pensoft
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21100414384
+    value: '5.8'
+- apc_estimate:
+    url: http://natureconservation.pensoft.net/about#Article-Processing-Charges
+    value: from EUR 950
+  journal:
+    url: http://natureconservation.pensoft.net/
+    value: Nature Conservation
+  journal_impact_factor:
+    value: '1.6'
+  open_access_license:
+    url: https://doaj.org/toc/1314-6947
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Pensoft
-  scopus_citescore: '4.5'
-- apc_estimate: from EUR 950
-  journal: NeoBiota
-  journal_impact_factor: '5.1'
-  open_access_license: CC BY
+  publisher:
+    value: Pensoft
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21100414365
+    value: '4.5'
+- apc_estimate:
+    url: https://neobiota.pensoft.net/about#ArticleProcessingCharges
+    value: from EUR 950
+  journal:
+    url: http://neobiota.pensoft.net/
+    value: NeoBiota
+  journal_impact_factor:
+    value: '5.1'
+  open_access_license:
+    url: https://doaj.org/toc/1619-0033
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Pensoft
-  scopus_citescore: '7.7'
-- apc_estimate: from EUR 780
-  journal: PhytoKeys
-  journal_impact_factor: '1.4'
-  open_access_license: CC BY
+  publisher:
+    value: Pensoft
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21100464918
+    value: '7.7'
+- apc_estimate:
+    url: https://phytokeys.pensoft.net/about#ArticleProcessingCharges
+    value: from EUR 780
+  journal:
+    url: http://phytokeys.pensoft.net/
+    value: PhytoKeys
+  journal_impact_factor:
+    value: '1.4'
+  open_access_license:
+    url: https://doaj.org/toc/1314-2011
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Pensoft
-  scopus_citescore: '2.2'
-- apc_estimate: USD 1805
-  journal: PLOS ONE
-  journal_impact_factor: '3.7'
-  open_access_license: CC BY
+  publisher:
+    value: Pensoft
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21100332243
+    value: '2.2'
+- apc_estimate:
+    url: http://journals.plos.org/plosone/s/publication-fees
+    value: USD 1805
+  journal:
+    url: http://www.plosone.org/
+    value: PLOS ONE
+  journal_impact_factor:
+    value: '3.7'
+  open_access_license:
+    url: https://doaj.org/toc/1932-6203
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Plos
-  scopus_citescore: '6'
-- apc_estimate: EUR 1790
-  journal: Scientific Data
-  journal_impact_factor: '9.8'
-  open_access_license: CC BY
+  publisher:
+    value: Plos
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/10600153309
+    value: '6'
+- apc_estimate:
+    url: https://www.nature.com/sdata/about/oa
+    value: EUR 1790
+  journal:
+    url: http://www.nature.com/sdata/
+    value: Scientific Data
+  journal_impact_factor:
+    value: '9.8'
+  open_access_license:
+    url: https://doaj.org/toc/2052-4463
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Nature Publishing Group
-  scopus_citescore: '11.2'
-- apc_estimate: EUR 1800
-  journal: Taxon
-  journal_impact_factor: '3.4'
-  open_access_license: 'Yes'
+  publisher:
+    value: Nature Publishing Group
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/21100451321
+    value: '11.2'
+- apc_estimate:
+    url: http://www.iapt-taxon.org/files/guidelines_authors.pdf
+    value: EUR 1800
+  journal:
+    url: https://onlinelibrary.wiley.com/journal/19968175
+    value: Taxon
+  journal_impact_factor:
+    value: '3.4'
+  open_access_license:
+    url: http://www.iapt-taxon.org/files/guidelines_authors.pdf
+    value: 'Yes'
   paper_types:
   - DataPaper
-  publisher: Internat. Assoc. Plant Taxonomists (IAPT)
-  scopus_citescore: '3.8'
-- apc_estimate: from EUR 780
-  journal: ZooKeys
-  journal_impact_factor: '1.3'
-  open_access_license: CC BY
+  publisher:
+    value: Internat. Assoc. Plant Taxonomists (IAPT)
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/17307
+    value: '3.8'
+- apc_estimate:
+    url: https://zookeys.pensoft.net/about#ArticleProcessingCharges
+    value: from EUR 780
+  journal:
+    url: http://zookeys.pensoft.net/
+    value: ZooKeys
+  journal_impact_factor:
+    value: '1.3'
+  open_access_license:
+    url: https://doaj.org/toc/1313-2989
+    value: CC BY
   paper_types:
   - DataPaper
-  publisher: Pensoft
-  scopus_citescore: '2.7'
-- apc_estimate: EUR 3050
-  journal: Global Ecology and Biogeography
-  journal_impact_factor: '6.4'
-  open_access_license: Optional
+  publisher:
+    value: Pensoft
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/19700170477
+    value: '2.7'
+- apc_estimate:
+    url: https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/article-publication-charges.html
+    value: EUR 3050
+  journal:
+    url: https://onlinelibrary.wiley.com/journal/14668238
+    value: Global Ecology and Biogeography
+  journal_impact_factor:
+    value: '6.4'
+  open_access_license:
+    value: Optional
   paper_types:
   - DataPaper
-  publisher: Wiley
-  scopus_citescore: '10.8'
-- apc_estimate: USD 3000 (2250 for society members)
-  journal: Ecology
-  journal_impact_factor: '4.8'
-  open_access_license: Optional
+  publisher:
+    value: Wiley
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/22044
+    value: '10.8'
+- apc_estimate:
+    url: https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/article-publication-charges.html
+    value: USD 3000 (2250 for society members)
+  journal:
+    url: https://esajournals.onlinelibrary.wiley.com/hub/journal/19399170/aims-and-scope/read-full-aims-and-scope
+    value: Ecology
+  journal_impact_factor:
+    value: '4.8'
+  open_access_license:
+    value: Optional
   paper_types:
   - DataPaper
-  publisher: Ecological Society of America
-  scopus_citescore: '8.7'
+  publisher:
+    value: Ecological Society of America
+  scopus_citescore:
+    url: https://www.scopus.com/sourceid/20308
+    value: '8.7'

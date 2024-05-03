@@ -15,7 +15,17 @@ default_range: string
 imports:
   - linkml:types
 
+types:
+  uri:
+    base: string
+    uri: xsd:anyURI
+
 classes:
+  TextWithUrl:
+    slots:
+      - value
+      - url
+
   Journal:
     description: "A record of a journal"
     slots:
@@ -28,29 +38,38 @@ classes:
       - paper_types
 
 slots:
+  value:
+    description: "The text content"
+    range: string
+  url:
+    description: "The URL pointing to more information"
+    range: uri
+    required: false
   journal:
     description: "Name of the journal"
-    range: string
+    range: TextWithUrl
   publisher:
     description: "Publisher of the journal"
-    range: string
+    range: TextWithUrl
+    slot_uri: linkml:url  # Add URL capability
   open_access_license:
     description: "Type of open access license"
-    range: string
+    range: TextWithUrl
   apc_estimate:
     description: "Estimated article processing charge"
-    range: string
+    range: TextWithUrl
   journal_impact_factor:
     description: "Journal's impact factor for the year 2022"
-    range: string
+    range: TextWithUrl
   scopus_citescore:
     description: "Journal's Scopus CiteScore for the year 2022"
-    range: string
+    range: TextWithUrl
   paper_types:
     description: "Type of papers published by the journal"
     range: PaperTypes
     multivalued: true
 
+# TODO:  slot_uri's for enums????
 enums:
   PaperTypes:
     permissible_values:

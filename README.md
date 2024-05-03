@@ -3,43 +3,43 @@
 <!-- BEGIN TABLE -->
 | Journal | Publisher | Open Access (license) | APC estimate | Journal Impact Factor (2022) | Scopus CiteScore (2022) | Paper types |
 |---------|-----------|-----------------------|--------------|-----------------------------|-------------------------|-------------|
-| Annals of Forest Science | Springer Nature | CC BY | EUR 1690 | 3.0 | 6.4 | DataPaper |
-| Arxius de Miscel·lània Zoològica | Nat Hist Museum of Barcelona | CC BY | 0 | - | 1 | DataPaper |
-| Big Earth Data | Taylor & Francis Online | CC BY | EUR 910 | 4.0 | 8 | DataPaper |
-| Biodiversity Data Journal | Pensoft | CC BY | from EUR 650 | 1.3 | 2.1 | DataPaper |
-| Biogeographia | eScholarship | CC BY | 0 | - | 1.9 | DataPaper |
-| BioInvasions Records | REABIC Journals | CC BY | from EUR 560 | 1.4 | 2.7 | DataPaper |
-| BioRisk | Pensoft | Yes | from EUR 450 | - | 0.6 | DataPaper |
-| Biota Colombiana | Humboldt Institute, Colombia | CC BY-NC-ND | 0 | - | 1 | DataPaper |
-| BMC Ecology and Evolution | Biomed Central | CC BY | EUR 2090 | 2.2 | 5.8 | DataPaper |
-| BMC Plant Biology | Biomed Central | CC BY + CC0 | EUR 2090 | 5.3 | 8.7 | DataPaper |
-| Botanical Studies | Springer Nature | CC BY | EUR 1745 | 3.4 | 4.8 | DataPaper |
-| Check List | Biotaxa | CC BY | from EUR 250 | 0.4 | 1.1 | DataPaper |
-| China Scientific Data | Chinese Academy of Sciences | Yes | RMB 3000 | - | - | DataPaper |
-| Data in Brief | Elsevier | CC BY | USD 500 | 1.2 | 2.6 | DataPaper |
-| Data | MDPI Open Access Journals | CC BY | CHF 1400 | 2.6 | 4.6 | DataPaper |
-| Diversity | MDPI Open Access Journals | CC BY | CHF 1900 | 2.4 | 3.1 | DataPaper |
-| Earth System Science Data | Copernicus GmbH | CC BY | 0 | 11.4 | 14.9 | DataPaper |
-| Ecological Research | Wiley, for The Ecological Society of Japan | Yes | USD 3000 | 2.0 | 4.1 | DataPaper |
-| Ecosistemas | Asociación Española de Ecología Terrestre | CC BY-NC | 0 | 0.7 | 1.6 | DataPaper |
-| F1000 Research | F1000 Research Ltd | CC BY | USD 800 | - | 3.6 | DataPaper |
-| The Freshwater Metadata Journal | Univ of Nat Res & Life Sci, Vienna | CC BY | 0 | - | - | DataPaper |
-| Geoscience Data Journal | Wiley (on behalf of RMetS) | CC BY | EUR 1450 | 3.2 | 6.2 | DataPaper |
-| GigaByte | BGI and Oxford University Press | CC BY | USD 350 | - | - | DataPaper |
-| GigaScience | Oxford University Press | CC BY | EUR 1089 | 9.2 | 13.7 | DataPaper |
-| Journal of Limnology | PAGEPress | CC BY | EUR 600 | 1.6 | 2.8 | DataPaper |
-| Knowledge and Management of Aquatic Ecosystems | EDP Sciences | CC BY-ND | 0 | 1.8 | 3.6 | DataPaper |
-| Metabarcoding and Metagenomics (MBMG) | Pensoft | CC BY | from EUR 650 | - | 5 | DataPaper |
-| MycoKeys | Pensoft | CC BY | from EUR 950 | 3.3 | 5.8 | DataPaper |
-| Nature Conservation | Pensoft | CC BY | from EUR 950 | 1.6 | 4.5 | DataPaper |
-| NeoBiota | Pensoft | CC BY | from EUR 950 | 5.1 | 7.7 | DataPaper |
-| PhytoKeys | Pensoft | CC BY | from EUR 780 | 1.4 | 2.2 | DataPaper |
-| PLOS ONE | Plos | CC BY | USD 1805 | 3.7 | 6 | DataPaper |
-| Scientific Data | Nature Publishing Group | CC BY | EUR 1790 | 9.8 | 11.2 | DataPaper |
-| Taxon | Internat. Assoc. Plant Taxonomists (IAPT) | Yes | EUR 1800 | 3.4 | 3.8 | DataPaper |
-| ZooKeys | Pensoft | CC BY | from EUR 780 | 1.3 | 2.7 | DataPaper |
-| Global Ecology and Biogeography | Wiley | Optional | EUR 3050 | 6.4 | 10.8 | DataPaper |
-| Ecology | Ecological Society of America | Optional | USD 3000 (2250 for society members) | 4.8 | 8.7 | DataPaper |
+| [Annals of Forest Science](https://www.springer.com/life+sciences/forestry/journal/13595) | Springer Nature | CC BY | [EUR 1690](https://www.springernature.com/gp/open-research/journals-books/journals) | 3.0 | [6.4](https://www.scopus.com/sourceid/25557) | DataPaper |
+| [Arxius de Miscel·lània Zoològica](http://amz.museucienciesjournals.cat/?lang=en) | Nat Hist Museum of Barcelona | [CC BY](https://doaj.org/toc/1698-0476) | [0](http://amz.museucienciesjournals.cat/editorial-policy/?lang=en) | - | [1](https://www.scopus.com/sourceid/21100199735) | DataPaper |
+| [Big Earth Data](https://www.tandfonline.com/toc/tbed20/current) | Taylor & Francis Online | [CC BY](https://authorservices.taylorandfrancis.com/copyright-and-you/) | [EUR 910](https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tbed20) | 4.0 | [8](https://www.scopus.com/sourceid/21101020024) | DataPaper |
+| [Biodiversity Data Journal](http://bdj.pensoft.net/) | Pensoft | [CC BY](https://doaj.org/toc/1314-2828) | [from EUR 650](https://bdj.pensoft.net/about#CoreCharges) | 1.3 | [2.1](https://www.scopus.com/sourceid/21100808899) | DataPaper |
+| [Biogeographia](https://escholarship.org/uc/biogeographia) | eScholarship | [CC BY](https://doaj.org/toc/1594-7629) | [0](https://escholarship.org/uc/biogeographia/submissionguidelines) | - | [1.9](https://www.scopus.com/sourceid/21100901480) | DataPaper |
+| [BioInvasions Records](http://www.reabic.net/journals/bir/Default.aspx) | REABIC Journals | [CC BY](https://doaj.org/toc/2242-1300) | [from EUR 560](http://www.reabic.net/journals/bir/Submission.aspx) | 1.4 | [2.7](https://www.scopus.com/sourceid/21100790933) | DataPaper |
+| [BioRisk](http://biorisk.pensoft.net/) | Pensoft | Yes | [from EUR 450](https://biorisk.pensoft.net/about#ArticleProcessingCharges) | - | [0.6](https://www.scopus.com/sourceid/21100200206) | DataPaper |
+| [Biota Colombiana](http://revistas.humboldt.org.co/index.php/biota) | Humboldt Institute, Colombia | [CC BY-NC-ND](https://doaj.org/toc/0124-5376) | [0](https://doaj.org/toc/0124-5376) | - | [1](https://www.scopus.com/sourceid/21101021454) | DataPaper |
+| [BMC Ecology and Evolution](https://bmcecolevol.biomedcentral.com/) | Biomed Central | [CC BY](https://doaj.org/toc/1472-6785) | [EUR 2090](https://www.springernature.com/gp/open-research/journals-books/journals) | 2.2 | [5.8](https://www.scopus.com/sourceid/13115) | DataPaper |
+| [BMC Plant Biology](http://bmcplantbiol.biomedcentral.com/) | Biomed Central | [CC BY + CC0](https://doaj.org/toc/1471-2229) | [EUR 2090](https://www.springernature.com/gp/open-research/journals-books/journals) | 5.3 | [8.7](https://www.scopus.com/sourceid/16794) | DataPaper |
+| [Botanical Studies](http://www.as-botanicalstudies.com/) | Springer Nature | [CC BY](https://doaj.org/toc/1817-406X) | [EUR 1745](http://as-botanicalstudies.springeropen.com/about) | 3.4 | [4.8](https://www.scopus.com/sourceid/4700151601) | DataPaper |
+| [Check List](http://biotaxa.org/CL) | Biotaxa | [CC BY](https://doaj.org/toc/1809-127X) | [from EUR 250](https://checklist.pensoft.net/about#ArticleProcessingCharges) | 0.4 | [1.1](https://www.scopus.com/sourceid/19700188151) | DataPaper |
+| [China Scientific Data](http://www.csdata.org) | Chinese Academy of Sciences | [Yes](http://www.csdata.org/en/) | [RMB 3000](http://www.csdata.org/en/p/static/1329/) | - | - | DataPaper |
+| [Data in Brief](http://www.journals.elsevier.com/data-in-brief/) | Elsevier | [CC BY](https://doaj.org/toc/2352-3409) | [USD 500](https://www.elsevier.com/journals/data-in-brief/2352-3409/open-access-journal) | 1.2 | [2.6](https://www.scopus.com/sourceid/21100372856) | DataPaper |
+| [Data](http://www.mdpi.com/journal/data/about) | MDPI Open Access Journals | [CC BY](https://doaj.org/toc/2306-5729) | [CHF 1400](http://www.mdpi.com/journal/data/apc) | 2.6 | [4.6](https://www.scopus.com/sourceid/21100924372) | DataPaper |
+| [Diversity](https://www.mdpi.com/journal/diversity) | MDPI Open Access Journals | [CC BY](https://doaj.org/toc/1424-2818) | [CHF 1900](https://www.mdpi.com/about/apc#journal-apcs) | 2.4 | [3.1](https://www.scopus.com/sourceid/6000187990) | DataPaper |
+| [Earth System Science Data](http://www.earth-system-science-data.net/) | Copernicus GmbH | [CC BY](https://doaj.org/toc/1866-3508) | [0](http://www.earth-system-science-data.net/for_authors/article_processing_charges.html) | 11.4 | [14.9](https://www.scopus.com/sourceid/21100284918) | DataPaper |
+| [Ecological Research](http://www.esj.ne.jp/er/index.html) | Wiley, for The Ecological Society of Japan | [Yes](https://esj-journals.onlinelibrary.wiley.com/hub/journal/14401703/homepage/forauthors) | [USD 3000](https://esj-journals.onlinelibrary.wiley.com/hub/journal/14401703/homepage/forauthors#licensing) | 2.0 | [4.1](https://www.scopus.com/sourceid/14580) | DataPaper |
+| [Ecosistemas](https://www.revistaecosistemas.net/index.php/ecosistemas) | Asociación Española de Ecología Terrestre | [CC BY-NC](https://www.revistaecosistemas.net/index.php/ecosistemas/about#acceso) | [0](https://www.revistaecosistemas.net/index.php/ecosistemas/about#costes) | 0.7 | [1.6](https://www.scopus.com/sourceid/21100781964) | DataPaper |
+| [F1000 Research](http://f1000research.com/) | F1000 Research Ltd | [CC BY](https://doaj.org/toc/2046-1402) | [USD 800](http://f1000research.com/for-authors/article-processing-charges) | - | [3.6](https://www.scopus.com/sourceid/21100258853) | DataPaper |
+| [The Freshwater Metadata Journal](http://www.freshwaterjournal.eu/) | Univ of Nat Res & Life Sci, Vienna | [CC BY](https://doaj.org/toc/2312-6604) | [0](http://www.freshwaterjournal.eu) | - | - | DataPaper |
+| [Geoscience Data Journal](http://www.geosciencedata.com/) | Wiley (on behalf of RMetS) | [CC BY](https://doaj.org/toc/2049-6060) | [EUR 1450](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/article-publication-charges.html) | 3.2 | [6.2](https://www.scopus.com/sourceid/21100812867) | DataPaper |
+| [GigaByte](https://gigabytejournal.com/) | BGI and Oxford University Press | [CC BY](https://gigabytejournal.com/open-access-and-apc#open-access) | [USD 350](https://gigabytejournal.com/open-access-and-apc#article-processing-charges) | - | - | DataPaper |
+| [GigaScience](https://academic.oup.com/gigascience) | Oxford University Press | [CC BY](https://doaj.org/toc/2047-217X) | [EUR 1089](https://academic.oup.com/gigascience/pages/charges_licensing_and_self_archiving) | 9.2 | [13.7](https://www.scopus.com/sourceid/21100420802) | DataPaper |
+| [Journal of Limnology](https://www.jlimnol.it) | PAGEPress | [CC BY](https://jlimnol.it/index.php/jlimnol/copy) | [EUR 600](https://jlimnol.it/index.php/jlimnol/fee) | 1.6 | [2.8](https://www.scopus.com/sourceid/29608) | DataPaper |
+| [Knowledge and Management of Aquatic Ecosystems](https://www.kmae-journal.org/) | EDP Sciences | [CC BY-ND](https://doaj.org/toc/1961-9502) | [0](https://www.kmae-journal.org/author-information/instructions-for-authors) | 1.8 | [3.6](https://www.scopus.com/sourceid/15900154751) | DataPaper |
+| [Metabarcoding and Metagenomics (MBMG)](https://mbmg.pensoft.net/) | Pensoft | [CC BY](https://doaj.org/toc/2534-9708) | [from EUR 650](https://mbmg.pensoft.net/about#ArticleProcessingCharges) | - | [5](https://www.scopus.com/sourceid/21101022488) | DataPaper |
+| [MycoKeys](http://mycokeys.pensoft.net/) | Pensoft | [CC BY](https://doaj.org/toc/1314-4057) | [from EUR 950](https://mycokeys.pensoft.net/about#ArticleProcessingCharges) | 3.3 | [5.8](https://www.scopus.com/sourceid/21100414384) | DataPaper |
+| [Nature Conservation](http://natureconservation.pensoft.net/) | Pensoft | [CC BY](https://doaj.org/toc/1314-6947) | [from EUR 950](http://natureconservation.pensoft.net/about#Article-Processing-Charges) | 1.6 | [4.5](https://www.scopus.com/sourceid/21100414365) | DataPaper |
+| [NeoBiota](http://neobiota.pensoft.net/) | Pensoft | [CC BY](https://doaj.org/toc/1619-0033) | [from EUR 950](https://neobiota.pensoft.net/about#ArticleProcessingCharges) | 5.1 | [7.7](https://www.scopus.com/sourceid/21100464918) | DataPaper |
+| [PhytoKeys](http://phytokeys.pensoft.net/) | Pensoft | [CC BY](https://doaj.org/toc/1314-2011) | [from EUR 780](https://phytokeys.pensoft.net/about#ArticleProcessingCharges) | 1.4 | [2.2](https://www.scopus.com/sourceid/21100332243) | DataPaper |
+| [PLOS ONE](http://www.plosone.org/) | Plos | [CC BY](https://doaj.org/toc/1932-6203) | [USD 1805](http://journals.plos.org/plosone/s/publication-fees) | 3.7 | [6](https://www.scopus.com/sourceid/10600153309) | DataPaper |
+| [Scientific Data](http://www.nature.com/sdata/) | Nature Publishing Group | [CC BY](https://doaj.org/toc/2052-4463) | [EUR 1790](https://www.nature.com/sdata/about/oa) | 9.8 | [11.2](https://www.scopus.com/sourceid/21100451321) | DataPaper |
+| [Taxon](https://onlinelibrary.wiley.com/journal/19968175) | Internat. Assoc. Plant Taxonomists (IAPT) | [Yes](http://www.iapt-taxon.org/files/guidelines_authors.pdf) | [EUR 1800](http://www.iapt-taxon.org/files/guidelines_authors.pdf) | 3.4 | [3.8](https://www.scopus.com/sourceid/17307) | DataPaper |
+| [ZooKeys](http://zookeys.pensoft.net/) | Pensoft | [CC BY](https://doaj.org/toc/1313-2989) | [from EUR 780](https://zookeys.pensoft.net/about#ArticleProcessingCharges) | 1.3 | [2.7](https://www.scopus.com/sourceid/19700170477) | DataPaper |
+| [Global Ecology and Biogeography](https://onlinelibrary.wiley.com/journal/14668238) | Wiley | Optional | [EUR 3050](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/article-publication-charges.html) | 6.4 | [10.8](https://www.scopus.com/sourceid/22044) | DataPaper |
+| [Ecology](https://esajournals.onlinelibrary.wiley.com/hub/journal/19399170/aims-and-scope/read-full-aims-and-scope) | Ecological Society of America | Optional | [USD 3000 (2250 for society members)](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/article-publication-charges.html) | 4.8 | [8.7](https://www.scopus.com/sourceid/20308) | DataPaper |
 <!-- END TABLE -->
 
 # To contribute
