@@ -1,0 +1,23 @@
+#!/usr/bin/env python
+
+import yaml
+
+# Load the YAML data
+with open('journals.yaml', 'r') as file:
+    journals = yaml.safe_load(file)
+
+# Markdown table header
+markdown_table = [
+    "| Journal | Publisher | Open Access (license) | APC estimate | Journal Impact Factor (2022) | Scopus CiteScore (2022) | Paper types |",
+    "|---------|-----------|-----------------------|--------------|-----------------------------|-------------------------|-------------|"
+]
+
+# Fill the table with data from YAML
+for journal in journals:
+    paper_types = ", ".join(journal["paper_types"])  # Join all paper types with a comma
+    row = f"| {journal['journal']} | {journal['publisher']} | {journal['open_access_license']} | {journal['apc_estimate']} | {journal['journal_impact_factor']} | {journal['scopus_citescore']} | {paper_types} |"
+    markdown_table.append(row)
+
+# Print the markdown table
+for line in markdown_table:
+    print(line)
